@@ -2359,6 +2359,12 @@ img.mfp-img {
 	.main_header .logo_block{
 		margin-left: 0;
 	}
+	.main_header{
+		top: 1px;
+	}
+	.menu_block{
+		display: none!important;
+	}
 }
 @media(max-width: 767px){
 	.main_header .header_text{
@@ -2375,5 +2381,9 @@ img.mfp-img {
 	}
 	.main_header{
 		top: 1px;
+	}
+
+	.menu_block{
+		display: none!important;
 	}
 }
