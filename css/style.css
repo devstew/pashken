@@ -2373,4 +2373,7 @@ img.mfp-img {
 	.vertical-panel, .vertical-panel-content{
 		width: 50px;
 	}
+	.main_header{
+		top: 1px;
+	}
 }
