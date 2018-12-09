@@ -2342,6 +2342,13 @@ img.mfp-img {
 	.main_header .header_text{
 		display: none;
 	}
+	.main_header{
+		top: 68px;
+	}
+
+	.navbar-mobile{
+		top: 68px;
+	}
 
 }
 
@@ -2353,6 +2360,9 @@ img.mfp-img {
 		height: 40px;
 
 	}
+	.navbar-mobile{
+		top: 68px;
+	}
 	.social-list li{
 		margin-top: 16px;
 	}
@@ -2360,7 +2370,7 @@ img.mfp-img {
 		margin-left: 0;
 	}
 	.main_header{
-		top: 1px;
+		top: 68px;
 	}
 	.menu_block{
 		display: none!important;
@@ -2375,12 +2385,16 @@ img.mfp-img {
 	}
 	.main_header{
 		padding-left: 15px;
+		top: 68px;
 	}
 	.vertical-panel, .vertical-panel-content{
 		width: 50px;
 	}
 	.main_header{
-		top: 1px;
+		top: 68px;
+	}
+	.navbar-mobile{
+		top: 68px;
 	}
 
 	.menu_block{
