@@ -234,7 +234,7 @@ label.error {
 	padding-left: 3px;
 }
 .vertical-text p{
-	font-size: 10px;
+	font-size: 16px;
 	letter-spacing: 0.4em;
 	font-weight: 500;
 	margin-bottom: 0;
@@ -245,7 +245,7 @@ label.error {
 }
 .menu_icon{
 	position: absolute;
-	top: 28px;
+	top: 95px;
 	left: 0;
 	width: 100px;
 	display: flex;
@@ -260,7 +260,7 @@ label.error {
 }
 .main_header{
 	position: absolute;
-	top: 0;
+	top: 68px;
 	left: 0;
 	right: 0;
 	width: 100%;
@@ -737,6 +737,7 @@ label.error {
 }
 
 .vertical-panel-title {
+	display: none;
 	font-family: 'montserratsemibold';
 	font-size: 10px;
 	white-space: nowrap;
