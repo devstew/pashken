@@ -2396,6 +2396,9 @@ img.mfp-img {
 	.navbar-mobile{
 		top: 68px;
 	}
+	.btn{
+		margin: 0 40px;
+	}
 
 	.menu_block{
 		display: none!important;
