@@ -2367,11 +2367,14 @@ img.mfp-img {
 		height: 40px;
 
 	}
+	.vertical-text{
+		display: none;
+	}
 	.navbar-mobile{
 		top: 68px;
 	}
 	.social-list li{
-		margin-top: 16px;
+		margin-top: 60px;
 	}
 	.main_header .logo_block{
 		margin-left: 0;
