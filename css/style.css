@@ -2359,7 +2359,7 @@ img.mfp-img {
 
 }
 
-@media(max-width: 991px){
+@media(max-width: 991px) , screen and (max-height: 775px){
 	.menu_icon img{
 		display: none;
 	}
