@@ -234,7 +234,7 @@ label.error {
 	padding-left: 3px;
 }
 .vertical-text p{
-	font-size: 16px;
+	font-size: 12px;
 	letter-spacing: 0.4em;
 	font-weight: 500;
 	margin-bottom: 0;
@@ -696,6 +696,12 @@ label.error {
 @media (max-width: 480px) {
 	.header-phone {
 		display: none;
+	}
+}
+@media screen and(min-height: 420px) and (max-height: 720px){
+	.vertical-text p{
+		font-size: 10px;
+		letter-spacing: 0.1em;
 	}
 }
 
