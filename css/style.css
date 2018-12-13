@@ -310,7 +310,13 @@ label.error {
 .main_header .menu{
 	display: flex;
 	position: relative;
+	transition: all .3s ease-in;
 
+}
+
+.menu a:hover{
+	opacity: .7;
+	transition: all .3s ease-in;
 }
 .main_header .menu_block{
 	position: absolute;
@@ -772,6 +778,10 @@ label.error {
 
 .social-list li {
 	margin-top: 30px;
+}
+.social-list li:hover {
+	opacity: .7;
+	transition: all .3s ease-in;
 }
 .social-list a:hover{
 	text-decoration: unset!important;
