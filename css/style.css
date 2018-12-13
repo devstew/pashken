@@ -2391,7 +2391,7 @@ img.mfp-img {
 		display: none!important;
 	}
 }
-@media(max-width: 767px){
+@media(max-width: 830px){
 	.main_header .header_text{
 		display: none;
 	}
